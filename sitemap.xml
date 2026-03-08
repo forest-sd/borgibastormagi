@@ -32,4 +32,10 @@
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://borgibastormagi.com/posts/art-of-misdirection-mastering-fundamental-principle-magic/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
